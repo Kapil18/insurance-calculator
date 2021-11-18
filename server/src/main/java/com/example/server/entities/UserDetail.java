@@ -3,7 +3,7 @@ package com.example.server.entities;
 import javax.persistence.*;
 import java.math.BigInteger;
 
-public class UserDetails {
+public class UserDetail {
     @Entity
     public class UserDetail {
 
